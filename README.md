@@ -1,3 +1,21 @@
+# AI Virtual Mouse Controller 🖱️🤖
+
+This project allows you to control your computer mouse using hand gestures via a webcam.
+
+## ✨ Features
+- **Move Mouse:** Tracking index finger.
+- **Click Actions:** Gestures for clicks.
+- **Real-time:** Built with MediaPipe and OpenCV.
+
+## 📸 Demo
+![Project Demo](demo.png)
+
+## 🚀 Requirements
+- Python 3.x
+- mediapipe
+- opencv-python
+- pyautogui
+
 # 🖐️ Gesture Controller — دليل التثبيت والتشغيل
 
 ## المتطلبات
